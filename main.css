@@ -1,0 +1,91 @@
+*{
+margin:0px;
+}
+#cont{
+color:red;
+text-decoration:none;
+}
+#cont:hover{
+color:white;
+}
+body{
+background-image: url("https://wallpapers.walldevil.com/wallpapers/w03/preview/960989-trees.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+h1{
+font-size:40px;
+color:white;
+margin:20px 40px;
+text-align:center;
+}
+.mid{
+width:720px;
+margin:20px auto;
+}
+#poem{
+margin:40px auto 10px auto;
+width:700px;
+text-align:center;
+background-color:rgba(255,255,255,0.9);
+height:400px;
+overflow:scroll;
+}
+.navitems{
+background-color:rgba(255,153,51,0.9);
+color:white;
+padding:2px 5px;
+width:20%;
+margin:10px 10px;
+}
+.home{
+color:white;
+text-decoration:none;
+}
+#poet{
+background-color:rgba(0,102,204,0.9);
+color:white;
+width:240px;
+position:relative;
+text-align:right;
+margin:10px 10px;
+float:right;
+padding:2px 5px;
+}
+.Footer{
+background-color:rgba(0,0,0,0.7);
+display:flex;
+flex-wrap:wrap;
+position:relative;
+top:25px;
+width:100%;
+font-size:16px;
+}
+#name{
+color:white;
+text-align:center;
+width:20%;
+height:25px;
+margin:auto;
+}
+#contact{
+color:red;
+position:relative;
+right:15px;
+margin:auto 0px;
+text-align:center;
+border:2px solid red;
+width:100px;
+height:25px;
+font-size:18px;
+}
+#share{
+color:white;
+padding:0px 10px;
+margin:auto 0px;
+}
+#twitter
+{
+padding:0px 5px;
+}
+
